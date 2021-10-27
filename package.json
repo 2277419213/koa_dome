@@ -1,0 +1,15 @@
+{
+  "name": "wjdc",
+  "version": "1.0.0",
+  "description": "问卷调查",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "居里栈栈",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.1",
+    "mysql": "^2.18.1"
+  }
+}
